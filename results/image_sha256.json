@@ -1,0 +1,9 @@
+{
+  "docs/renders/affine.png": "60a3df717d0a96a9357d5481bfd3e31703ae6b7ef8e2c1d67a9aeee5285436cf",
+  "docs/renders/clipping.png": "29e4ae743681f3f508f82c417fd6cbfe86c404c14161b3c8140bb66a3a10ad87",
+  "docs/renders/depth.png": "965b701491b8bda9162a282a2c64c7faf561fec85be931c2873ba9c3140230b6",
+  "docs/renders/hero.png": "ae205b3e6b224eeb251fb4b736cd5f26ba15a6bd569cfdde37cca8c926aec265",
+  "docs/renders/occlusion.png": "673cfd7662a9fb2a4de888d0013a6ebfb184ce60cf43f436064a342d4727c01a",
+  "docs/renders/perspective.png": "fae5a8d1e54ea02dc6580e31e8a3b78bf6a2ba835a4522bd53c6eecc9374303a",
+  "docs/renders/shared-edge.png": "1011ce1fa1ca06dd680e08ef79ec2752f1595593334be6151e814fdc58c39882"
+}

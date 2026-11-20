@@ -1,0 +1,13 @@
+{
+  "shared_edge_overlap_pixels": 0,
+  "shared_edge_covered_pixels": 193600,
+  "expected_square_pixels": 193600,
+  "affine_vs_perspective_mean_uv_distance": 0.7445777553279425,
+  "affine_vs_perspective_max_uv_distance": 1.4130913507612366,
+  "comparison_covered_pixels": 137406,
+  "hero_stats": {
+    "input_triangles": 4098,
+    "clipped_triangles": 4100,
+    "shaded_samples": 448883
+  }
+}

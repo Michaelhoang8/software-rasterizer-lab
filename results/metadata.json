@@ -1,0 +1,13 @@
+{
+  "recorded_at_utc": "2026-11-20T22:46:28.574016+00:00",
+  "python": "3.13.17",
+  "numpy": "2.3.5",
+  "os": "Windows",
+  "architecture": "AMD64",
+  "implementation": "CPU Python/NumPy triangle renderer; no GPU or graphics engine",
+  "timed_scope": "Whole hero frame: mesh/texture generation, matrices, clipping, rasterization and shading; excludes PNG encoding",
+  "samples": 12,
+  "warmup_frames": 1,
+  "median_frame_ms": 205.89565,
+  "core_sha256": "ff43b13bba026be080aa0b0e8bf72f5ad9d401368f32e454b77ec72f4e11954f"
+}

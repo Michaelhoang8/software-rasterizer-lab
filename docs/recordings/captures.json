@@ -1,0 +1,44 @@
+{
+  "captured_at_utc": "2026-11-20T22:48:38.042877+00:00",
+  "source": "Actual browser rendering of docs/report.html",
+  "recording": "Continuous automated browser review; not manual development footage",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "page_title": "Software rasterizer \u00b7 CPU graphics study",
+  "report_sha256_normalized_text": "1b0a3fe3ffbb006a789db03e1e6be021d7c210d2f0d1da5526ab45db0b6dfffe",
+  "video_sha256": "3ace37284581b7839ab5630d9ac5cfd6f3aa39b5d2284da079219471483f48b8",
+  "captures": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "section": "overview",
+      "sha256": "ec80bfb06439c16bae242ee563d23460cfc2653948f76576e004557fb3ce0aec"
+    },
+    {
+      "path": "docs/screenshots/02_interpolation.png",
+      "section": "interpolation",
+      "sha256": "680980ae18702d8cbf11a6fd56696855a2f208575f6031a505de49dea0037eae"
+    },
+    {
+      "path": "docs/screenshots/03_clipping.png",
+      "section": "clipping",
+      "sha256": "d7b838e9e614b363cfc9cd014b47032287228d0bce226638b8dd66aaf73691fd"
+    },
+    {
+      "path": "docs/screenshots/04_coverage.png",
+      "section": "coverage",
+      "sha256": "fff0450524b54f111675df6ab443e0a9d9ced4431a4e18b1607d8ce8c3b08072"
+    },
+    {
+      "path": "docs/screenshots/05_depth.png",
+      "section": "depth",
+      "sha256": "3ddfd7a853d1a83a7a2fe0c12ef1be28d2a74ca57d3efb4abcc48f5c65bcd3eb"
+    },
+    {
+      "path": "docs/screenshots/06_method.png",
+      "section": "method",
+      "sha256": "68dcb76b4aa84d6dec94f1dab9138c6c56d9736adc12fd74f05d831a768a44bb"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Synthetic scene rendered frame-by-frame by the CPU renderer",
+  "frames": 48,
+  "frames_per_second": 12,
+  "width": 640,
+  "height": 420,
+  "mesh_around": 40,
+  "mesh_tube": 20,
+  "camera": "Fixed; model rotates once through 2*pi",
+  "script": "scripts/render_study.py --movie",
+  "not_screen_recording": true,
+  "video_sha256": "ffab7e062a2c4aee6c13b2f55eec7eea3ce6c9bb9571e9d2df1a2fbc5af2467b",
+  "source_sha256": {
+    "src/rasterlab/core.py": "ff43b13bba026be080aa0b0e8bf72f5ad9d401368f32e454b77ec72f4e11954f",
+    "src/rasterlab/scenes.py": "bfd54a97770268dd5a2d9e3761657b085520bb60f0ba7e70de18f977d871174c",
+    "scripts/render_study.py": "37289b5b0c9f21b5e2f6e88c42bae38ed611dfabedf53296029f1ba4b0f59930"
+  }
+}
