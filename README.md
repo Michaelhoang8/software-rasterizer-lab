@@ -1,5 +1,7 @@
 # Software rasterizer lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/software-rasterizer-lab/)**
+
 A CPU triangle renderer implemented directly in Python/NumPy: **six-plane homogeneous clipping, top-left sample ownership, z-buffer visibility and perspective-correct UV interpolation**. Pillow writes the final pixels; no 3D graphics engine renders the scenes.
 
 ![CPU-rendered procedural torus](docs/renders/hero.png)
